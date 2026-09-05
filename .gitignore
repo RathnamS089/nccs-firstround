@@ -1,0 +1,13 @@
+dataset/train/*
+!dataset/train/.gitkeep
+
+dataset/test/*
+!dataset/test/.gitkeep
+
+dataset/val/*
+!dataset/val/.gitkeep
+
+__pycache__/
+*.pyc
+*.pth
+*.pt
